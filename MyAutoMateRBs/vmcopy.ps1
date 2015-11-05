@@ -510,6 +510,3 @@ else
 
 
 Write-Host "Virtual Machine Copy is Complete. Check script execution for any errors." -ForegroundColor Green
-
-
-
